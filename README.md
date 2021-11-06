@@ -48,5 +48,5 @@
 <div align="center">
   <h3>More Info</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=g7m7t1&show_icons=true&hide_title=true&count_private=true" alt="img" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=g7m7t1&langs_count=10&layout=compact" alt="img" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G7M7T1&hide_border=true&langs_count=10&count_private=true&layout=compact&include_all_commits=true&card_width=500" alt="img" />
 </div>

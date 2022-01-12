@@ -42,9 +42,6 @@
   <a href="https://www.youtube.com/c/G7M7T1"><img src="https://img.shields.io/badge/Youtube-G7M7T1-red" alt="Badge" /></a>
   <a href="https://twitter.com/G7M7T1"><img src="https://img.shields.io/badge/Twitter-G7M7T1-blue" alt="Badge" /></a>
   <a href="https://steamcommunity.com/id/G7M7T1/"><img src="https://img.shields.io/badge/Steam-G7M7T1-lightgrey" alt="Badge" /></a>
-  <a href="https://discord.gg/uhMpkKSKxU"><img src="https://img.shields.io/badge/Discord-Twly-brightgreen" alt="Badge" /></a>
-  <a href="https://replit.com/@G7M7T1"><img src="https://img.shields.io/badge/Replit-G7M7T1-orange" alt="Badge" /></a>
-  <a href="https://stackoverflow.com/users/14154300/g7m7t1"><img src="https://img.shields.io/badge/Stackoverflow-G7M7T1-yellow" alt="Badge"/></a>
 </div>
 
 <div align="center">

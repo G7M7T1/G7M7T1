@@ -3,7 +3,7 @@
 <h3 align="center">开发者 / 内容创作者 / 平面设计师</h3>
 <h3 align="center">Developer / Content Creator / Graphic Designer</h3>
 
-<div align="center">
+<div align="center"> 
   <h3>语言 / Language</h3>
   <p>HTML / CSS / Javascript / C# / TypeScript / GO / Python / PHP</p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="img"></img>
